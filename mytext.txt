@@ -1,2 +1,3 @@
 Monkeys can read this.
 Line added from test1 branch
+commit: Save status of index
